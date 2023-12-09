@@ -20,34 +20,6 @@ The Capsule App is an Android application designed to provide users with a curat
 - **Task:** Display the result of the quiz.
 - **Implementation:** After completing the quiz, users are shown their score as a percentage on the Quiz Result Screen.
 
-## Technical Details
-
-### a. Architecture
-- **Why:** Ensuring a clean and modular code structure.
-- **How:** Follows the clean architecture pattern with MVVM design, promoting separation of concerns.
-
-### b. View Binding
-- **Why:** Binding UI components in a type-safe manner.
-- **How:** Utilizes View Binding, allowing for more robust and type-safe access to UI elements.
-
-### c. ViewModels
-- **Why:** Managing UI-related data efficiently.
-- **How:** Implements ViewModels using Android's `ViewModel` class, separating UI logic from UI components.
-
-### d. Fragment Navigation
-- **Why:** Facilitating navigation between different screens.
-- **How:** Uses the `FragmentTransaction` mechanism for fragment navigation, ensuring a smooth transition.
-
-### e. YouTube Player API Integration
-- **Why:** Embedding and playing YouTube videos within the app.
-- **How:** Integrates the YouTube Player API to allow users to watch videos seamlessly without leaving the app.
-
-### f. Countdown Timer
-- **Why:** Enforcing an optional time limit for completing the entire capsule.
-- **How:** Implements a countdown timer using Kotlin Coroutines (`viewModelScope.launch`) and Android's `Dispatchers` for asynchronous execution.
-
-
-
 https://github.com/sheikh-20/Capsule-App/assets/121604647/d4614d5a-76c6-4731-bdd4-7d96df3b749c
 
 
