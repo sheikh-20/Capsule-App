@@ -4,9 +4,10 @@ The Capsule App is an Android application designed to provide users with a curat
 
 ## Features
 
-### 1. Video Screen
-- **Task:** Display a video using the YouTube Player API.
-- **Implementation:** Utilizes the YouTube Player API for seamless video playback within the app.
+### 1. Category screen
+- **Implementation:**
+  * Loads category from firebase(real-time database)
+  * Categorize using Preference datastore
 
 ### 2. Notes Screen
 - **Task:** Display textual content related to a specific topic.
