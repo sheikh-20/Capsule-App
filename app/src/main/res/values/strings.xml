@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Capsule App</string>
+
+    <string name="brain">
+        What is the brain?
+        \n
+        The brain is a complex organ that controls thought, memory, emotion, touch, motor skills, vision, breathing, temperature, hunger and every process that regulates our body. Together, the brain and spinal cord that extends from it make up the central nervous system, or CNS.
+        \n\n
+        What is the brain made of?
+        \n
+        Weighing about 3 pounds in the average adult, the brain is about 60% fat. The remaining 40% is a combination of water, protein, carbohydrates and salts. The brain itself is a not a muscle. It contains blood vessels and nerves, including neurons and glial cells.
+        \n\n
+        How does the brain work?
+        \n
+        The brain sends and receives chemical and electrical signals throughout the body. Different signals control different processes, and your brain interprets each. Some make you feel tired, for example, while others make you feel pain.
+        Some messages are kept within the brain, while others are relayed through the spine and across the body’s vast network of nerves to distant extremities. To do this, the central nervous system relies on billions of neurons (nerve cells).
+        \n\n
+        Main Parts of the Brain and Their Functions
+        \n
+        At a high level, the brain can be divided into the cerebrum, brainstem and cerebellum.
+        \n\n
+        Cerebrum
+        \n
+        The cerebrum (front of brain) comprises gray matter (the cerebral cortex) and white matter at its center. The largest part of the brain, the cerebrum initiates and coordinates movement and regulates temperature. Other areas of the cerebrum enable speech, judgment, thinking and reasoning, problem-solving, emotions and learning. Other functions relate to vision, hearing, touch and other senses.
+        \n\n
+        Brainstem
+        \n
+        The brainstem (middle of brain) connects the cerebrum with the spinal cord. The brainstem includes the midbrain, the pons and the medulla.
+        \n
+        Midbrain:
+        \n
+        The midbrain (or mesencephalon) is a very complex structure with a range of different neuron clusters (nuclei and colliculi), neural pathways and other structures. These features facilitate various functions, from hearing and movement to calculating responses and environmental changes. The midbrain also contains the substantia nigra, an area affected by Parkinson’s disease that is rich in dopamine neurons and part of the basal ganglia, which enables movement and coordination.
+        \n
+        Pons: The pons is the origin for four of the 12 cranial nerves, which enable a range of activities such as tear production, chewing, blinking, focusing vision, balance, hearing and facial expression. Named for the Latin word for “bridge,” the pons is the connection between the midbrain and the medulla.
+        \n
+        Medulla: At the bottom of the brainstem, the medulla is where the brain meets the spinal cord. The medulla is essential to survival. Functions of the medulla regulate many bodily activities, including heart rhythm, breathing, blood flow, and oxygen and carbon dioxide levels. The medulla produces reflexive activities such as sneezing, vomiting, coughing and swallowing.
+        \n\n
+        Cerebellum
+        \n
+        The cerebellum (“little brain”) is a fist-sized portion of the brain located at the back of the head, below the temporal and occipital lobes and above the brainstem. Like the cerebral cortex, it has two hemispheres. The outer portion contains neurons, and the inner area communicates with the cerebral cortex. Its function is to coordinate voluntary muscle movements and to maintain posture, balance and equilibrium. New studies are exploring the cerebellum’s roles in thought, emotions and social behavior, as well as its possible involvement in addiction, autism and schizophrenia.
+
+    </string>
+
+    <string name="lungs">
+        What Are the Lungs and Respiratory System?
+        \n
+        The lungs and respiratory system allow us to breathe. They bring oxygen into our bodies (called inspiration, or inhalation) and send carbon dioxide out (called expiration, or exhalation).
+        \n
+        This exchange of oxygen and carbon dioxide is called respiration
+        \n\n
+        What Are the Parts of the Respiratory System?
+        \n
+        The respiratory system includes the nose, mouth, throat, voice box, windpipe, and lungs.
+        \n
+        Air enters the respiratory system through the nose or the mouth. If it goes in the nostrils (also called nares), the air is warmed and humidified. Tiny hairs called cilia protect the nasal passageways and other parts of the respiratory tract, filtering out dust and other particles that enter the nose through the breathed air.
+        \n
+        The two openings of the airway (the nasal cavity and the mouth) meet at the pharynx, or throat, at the back of the nose and mouth. The pharynx is part of the digestive system as well as the respiratory system because it carries both food and air.
+        \n
+        At the bottom of the pharynx, this pathway divides in two, one for food — the esophagus, which leads to the stomach — and the other for air. The epiglottis, a small flap of tissue, covers the air-only passage when we swallow, keeping food and liquid from going into the lungs.
+        \n
+        The larynx, or voice box, is the top part of the air-only pipe. This short tube contains a pair of vocal cords, which vibrate to make sounds.
+        \n
+        The trachea, or windpipe, is the continuation of the airway below the larynx. The walls of the trachea are strengthened by stiff rings of cartilage to keep it open. The trachea is also lined with cilia, which sweep fluids and foreign particles out of the airway so that they stay out of the lungs.
+        \n
+        At its bottom end, the trachea divides into left and right air tubes called bronchi , which connect to the lungs. Within the lungs, the bronchi branch into smaller bronchi and even smaller tubes called bronchioles. Bronchioles end in tiny air sacs called alveoli, where the exchange of oxygen and carbon dioxide actually takes place. Each person has hundreds of millions of alveoli in their lungs. This network of alveoli, bronchioles, and bronchi is known as the bronchial tree.
+        \n
+        The lungs also contain elastic tissues that allow them to inflate and deflate without losing shape. They are covered by a thin lining called the pleura.
+        \n
+        The chest cavity, or thorax, is the airtight box that houses the bronchial tree, lungs, heart, and other structures. The top and sides of the thorax are formed by the ribs and attached muscles, and the bottom is formed by a large muscle called the diaphragm. The chest walls form a protective cage around the lungs and other contents of the chest cavity.
+        \n
+
+ </string>
+
+    <string name="heart">
+        Introduction to the Human Heart
+        \n
+        The human heart is one of the most important organs responsible for sustaining life. It is a muscular organ with four chambers. The size of the heart is the size of about a clenched fist.
+        \n
+        The human heart functions throughout a person’s lifespan and is one of the most robust and hardest working muscles in the human body.
+        \n
+        Besides humans, most other animals also possess a heart that pumps blood throughout their bodies. Even invertebrates such as grasshoppers possess a heart like pumping organ, though they do not function the same way a human heart does.
+        \n\n
+        Position of Heart in Human Body
+        \n
+        The human heart is located between the lungs in the thoracic cavity, slightly towards the left of the sternum (breastbone). It is derived from the embryonic mesodermal germ layer.
+        \n\n
+        The Function of Heart
+        \n
+        The function of the heart in any organism is to maintain a constant flow of blood throughout the body. This replenishes oxygen and circulates nutrients among the cells and tissues.
+        \n
+        Following are the main functions of the heart:
+        \n
+        One of the primary functions of the human heart is to pump blood throughout the body.
+        Blood delivers oxygen, hormones, glucose and other components to various parts of the body, including the human heart.
+        The heart also ensures that adequate blood pressure is maintained in the body
+
+    </string>
+</resources>
