@@ -29,9 +29,9 @@ https://github.com/sheikh-20/Capsule-App/assets/121604647/d4614d5a-76c6-4731-bdd
 ## Project Structure
 
 The project is organized into several packages:
-- `fragments`: Contains individual fragments for different screens (Video, Notes, Quiz, Quiz Result).
-- `adapters`: Includes the `CollectionAdapter` responsible for managing the ViewPager.
-- `utility`: Holds utility classes and data structures, such as the `Quiz` class and constants.
+- `ui`: Contains individual for different screens (Category, Video, Notes, Quiz).
+- `domain`: Includes the Usecases containing buisness logic.
+- `data`: Contains several repositories retrieves data from firebase.
 
 ## How to Run
 
