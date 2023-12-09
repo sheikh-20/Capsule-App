@@ -10,16 +10,18 @@ The Capsule App is an Android application designed to provide users with a curat
   * Categorize using Preference datastore
 
 ### 2. Notes Screen
-- **Task:** Display textual content related to a specific topic.
-- **Implementation:** Loads content from a provided PDF hosted on Google Drive, rendering it in a WebView.
+- **Implementation:**
+  * Loads content from a provided PDF hosted on firebase, rendering it in a WebView.
+ 
+### 3. Video Screen
+- **Implementation:**
+  * Loads youtube video related to the category hosted on firebase
 
-### 3. Quiz Screen
-- **Task:** Present a set of multiple-choice questions.
-- **Implementation:** Questions are stored in a `Quiz` class, providing a shuffled set for users to answer.
-
-### 4. Quiz Result Screen
-- **Task:** Display the result of the quiz.
-- **Implementation:** After completing the quiz, users are shown their score as a percentage on the Quiz Result Screen.
+### 4. Quiz Screen
+- **Implementation:**
+  * Loads Quiz from firebase (real-time database)
+  * Check the correct answer
+  * Display dialog when completed
 
 https://github.com/sheikh-20/Capsule-App/assets/121604647/d4614d5a-76c6-4731-bdd4-7d96df3b749c
 
